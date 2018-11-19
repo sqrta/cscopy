@@ -1,0 +1,6 @@
+void main(){
+    printf();
+    float a;
+    a=+(0x2af9+4.12*3);
+
+}

@@ -1,0 +1,30 @@
+int a=1;
+//sdfsdfwe
+/******/
+
+/////unformal_annotation1;
+
+//\
+\
+unformal_annotation2;
+
+/\
+/unformal_annotation3\
+unformal_annotation4\
+unformal_annotation5
+
+int a;
+
+/*formal_annotation1*/
+/*/*formal_annotation2
+formal_annotation3
+formal_annotation4*/
+
+float b\
+\
+=1.0;
+
+//
+m = n//**/o
++ p;
+/*safddsf

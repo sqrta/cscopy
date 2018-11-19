@@ -1,0 +1,22 @@
+
+int i = 0;
+void __main__()
+{
+    int a[5] = {};  //sdfsdfsdf
+    i = 1;
+    float b_23_If = 0.12;
+    void B_23_if;
+    /**********/
+    if (i == b_23_If){
+        while (i>0142){
+            a[2]=0x2afF9;
+        }
+    }
+    else {
+        if (a!=b){
+            a=b*b/b-b+b%b;
+            a=a,b,a+b;
+        }
+    }
+}
+ 

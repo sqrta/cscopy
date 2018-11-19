@@ -1,0 +1,19 @@
+
+int i = 0;
+void main()
+{
+    int a[5] = {0};  //sdfsdfsdf
+    i = 1;
+    float b_23_If = 0.12;
+    if (a == 2){
+        while (3>0142){
+            a[2]=0x2afF9;
+        }
+    }
+    else {
+        if (a>0){
+            a=b*b/b-b+b%b;
+        }
+    }
+}
+ 
